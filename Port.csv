@@ -1,0 +1,14 @@
+Source,Port,Destination
+Source1,135,Destination1
+Source1,139,Destination1
+Source1,445,Destination1
+Source1,443,Destination1
+Source1,808,Destination1
+Source1,5026,Destination1
+Source1,8090,Destination1
+Source1,30000,Destination1
+Source1,30001,Destination1
+Source1,32568,Destination1
+Source1,48031,Destination1
+Source1,49153,Destination1
+Source1,65534,Destination1
